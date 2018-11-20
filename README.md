@@ -14,15 +14,16 @@ For the best quality please run the code in Processing
 ### Selection Sort \(10x speed\)
 ![Black background with white lines of various lengths being sorted from shortest to longest using selection sort](images/selectionSort.gif)
 ### Insertion Sort
-
+![Black background with white lines of various lengths being sorted from shortest to longest using insertion sort](images/selectionSort.gif)
 ### Bubble Sort
-
+![Black background with white lines of various lengths being sorted from shortest to longest using bubble sort](images/selectionSort.gif)
 ### Cocktail Shaker Sort
-
+![Black background with white lines of various lengths being sorted from shortest to longest using cocktail shaker sort](images/selectionSort.gif)
 ### Merge Sort
-
+![Black background with white lines of various lengths being sorted from shortest to longest using merge sort](images/mergeSort.gif)
 ### Quick Sort
-
+![Black background with white lines of various lengths being sorted from shortest to longest using quick sort](images/quickSort.gif)
 ### Radix Sort (LSD)
-
+![Black background with white lines of various lengths being sorted from shortest to longest using radix sort \(LSD\)](images/radixSortLSD.gif)
 ### Radix Sort (MSD)
+![Black background with white lines of various lengths being sorted from shortest to longest using radix sort \(MSD\)](images/radixSortMSD.gif)
