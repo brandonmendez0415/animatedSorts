@@ -11,7 +11,7 @@ This was all done in Processing, a flexible software sketchbook and Java-based l
 
 For the best quality please run the code in Processing
 
-### Selection Sort (10x speed)
+### Selection Sort \(10x speed\)
 ![Black background with white lines of various lengths being sorted from shortest to longest using selection sort](images/selectionSort.gif)
 ### Insertion Sort
 
