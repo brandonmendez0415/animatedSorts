@@ -13,11 +13,11 @@ For the best quality please run the code in Processing
 
 ### Selection Sort \(10x speed\)
 ![Black background with white lines of various lengths being sorted from shortest to longest using selection sort](images/selectionSort.gif)
-### Insertion Sort
+### Insertion Sort \(9x speed\)
 ![Black background with white lines of various lengths being sorted from shortest to longest using insertion sort](images/insertionSort.gif)
-### Bubble Sort
+### Bubble Sort \(9x speed\)
 ![Black background with white lines of various lengths being sorted from shortest to longest using bubble sort](images/bubbleSort.gif)
-### Cocktail Shaker Sort
+### Cocktail Shaker Sort \(9x speed\)
 ![Black background with white lines of various lengths being sorted from shortest to longest using cocktail shaker sort](images/cocktailSort.gif)
 ### Merge Sort
 ![Black background with white lines of various lengths being sorted from shortest to longest using merge sort](images/mergeSort.gif)
