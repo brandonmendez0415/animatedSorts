@@ -8,7 +8,10 @@ Below I've included GIFs of the animations I have created, and within you'll fin
 This was all done in Processing, a flexible software sketchbook and Java-based language for learning how to code within the context of the visual arts.
 
 ## Animations
-### Selection Sort
+
+For the best quality please run the code in Processing
+
+### Selection Sort (10x speed)
 ![Black background with white lines of various lengths being sorted from shortest to longest using selection sort](images/selectionSort.gif)
 ### Insertion Sort
 
